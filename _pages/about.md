@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Mathematics"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Thanks for visting my page. My name is Gao Yu. I got my PhD degreee from department of mathematics, Harbin Institute of Technology, and then wored as postdoctral fellow for two years at University of Hong Kong. After that, I went to Hong Kong Polytechnic University as a research assistant professor for three and a half years. Now I am an associated professor at the department of science of Harbin Institute of Technology, Shenzhen.
+
+My current research lies in the field of nonlinear partial differential equations, especially that related to some integrable systems (e.g., Camassa-Holm equation, Cubic (or modified) Camassa-Holm equation, Hunter-Saxton equation) and kinetic theory (e.g., Vlasov-Poisson system, Dyson's equation from Dyson Brownian motions, Keller-Segel equations). I mainly focus on the well-posedness theory of the equations. Recently, I am interested in long time behavior of some equations. 
+
+
 
 A data-driven personal website
 ======
