@@ -11,6 +11,10 @@ Thanks for visting my page. My name is Gao Yu. I got my PhD degreee from departm
 
 My current research lies in the field of nonlinear partial differential equations, especially that related to some integrable systems (e.g., Camassa-Holm equation, Cubic (or modified) Camassa-Holm equation, Hunter-Saxton equation) and kinetic theory (e.g., Vlasov-Poisson system, Dyson's equation from Dyson Brownian motions, Keller-Segel equations). I mainly focus on the well-posedness theory of the equations. Recently, I am interested in long time behavior of some equations. 
 
+You can find my CV here: [Gao Yu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+
+[Email](mailto:gaoyu2024@hit.edu.cn)/[Github](https://github.com/Yu-hit)
+
 
 
 A data-driven personal website
